@@ -1,4 +1,4 @@
-// Файл main.cpp
+// Фаhhhhhhhйл main.cpp
 
 #include <iostream>
 #include <string>
